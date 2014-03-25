@@ -1,13 +1,13 @@
 Front End Developer Assessment
 ==============================
 
-Please build a tabbed container containing two lists, 'Most Popular' and 'Upcoming' courses, populated from a JSON feed.
+As a Learner, I would like to easily switch between viewing 'Most Popular' and 'Upcoming' courses, in a small modular sidebar area on a page.
 
-This should be built as a responsive module that could be placed anywhere on the site but primary use would be in a sidebar column.
+There is a JSON feed available to provide the data. 
 
 As a minimum, the lists should be numbered and link to the relevant course detail page on the FutureLearn site.
 
-An enhancement to this would be provide a modal overlay which would appear when a link is clicked providing an intro and synopsis before providing the user with a button to join that course.
+An enhancement to this would be to provide a modal overlay which would appear when a link is clicked providing an intro and synopsis before providing the user with a button to join that course.
 
 The look and feel of the module should match the FutureLearn styleguide at: https://www.futurelearn.com/styleguide
 
