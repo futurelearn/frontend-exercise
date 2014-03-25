@@ -44,8 +44,8 @@ Copies of the JSON feeds are available in this repo but they are also hosted on 
     });
 
 
-
-
-
+Getting Started
+---------------
+Please clone this repo and push changes to branch with name of the candidate.
 
 
