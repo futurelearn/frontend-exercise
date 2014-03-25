@@ -1,4 +1,49 @@
-frontend-test
-=============
+Front End Developer Assessment
+==============================
 
-Front End Tech Test
+Please build a tabbed container containing two lists, 'Most Popular' and 'Upcoming' courses, populated from a JSON feed.
+
+This should be built as a responsive module that could be placed anywhere on the site but primary use would be in a sidebar column.
+
+As a minimum, the lists should be numbered and link to the relevant course detail page on the FutureLearn site.
+
+An enhancement to this would be provide a modal overlay which would appear when a link is clicked providing an intro and synopsis before providing the user with a button to join that course.
+
+The look and feel of the module should match the FutureLearn styleguide at: https://www.futurelearn.com/styleguide
+
+
+'Most Popular' JSON feed using jQuery
+-------------------------------------
+    $.ajax({
+        type: 'GET',
+        url: 'http://jsonstub.com/courses/most-popular',
+        beforeSend: function (request) {
+            request.setRequestHeader('JsonStub-User-Key', '6f34b706-c669-40b0-bef7-21f183cdbf29');
+            request.setRequestHeader('JsonStub-Project-Key', '8785ce43-d2f0-45b8-8ada-1e8d3d84bd83');
+        }
+    }).done(function (data) {
+        //do something with data
+    });
+
+
+
+
+'Upcoming' JSON feed using jQuery
+---------------------------------
+    $.ajax({
+        type: 'GET',
+        url: 'http://jsonstub.com/courses/upcoming-courses',
+        beforeSend: function (request) {
+            request.setRequestHeader('JsonStub-User-Key', '6f34b706-c669-40b0-bef7-21f183cdbf29');
+            request.setRequestHeader('JsonStub-Project-Key', '8785ce43-d2f0-45b8-8ada-1e8d3d84bd83');
+        }
+    }).done(function (data) {
+        //do something with data
+    });
+
+
+
+
+
+
+
