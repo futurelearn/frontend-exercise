@@ -11,6 +11,8 @@ An enhancement to this would be provide a modal overlay which would appear when 
 
 The look and feel of the module should match the FutureLearn styleguide at: https://www.futurelearn.com/styleguide
 
+Copies of the JSON feeds are available in this repo but they are also hosted on JSONstub to prevent localhost domain AJAX security issues. You can access them like so;
+
 
 'Most Popular' JSON feed using jQuery
 -------------------------------------
