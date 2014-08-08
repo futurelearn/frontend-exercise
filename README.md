@@ -24,6 +24,9 @@ The lists should be numbered and link to the relevant course detail page on the 
 
 The look and feel of the module should match the visuals provided in the `visuals` folder.
 
+This exercise should adhere to our Browser Support matrix, available here: https://about.futurelearn.com/browser-support/
+
+
 Completion
 ---------------
 To submit your work, you can either Zip it up and email it to us or submit a Pull Request.
