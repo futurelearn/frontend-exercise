@@ -22,7 +22,7 @@ As a minimum, the lists should be numbered and link to the relevant course detai
 
 An enhancement to this would be to provide a modal overlay which would appear when a link is clicked providing an intro and synopsis before providing the user with a button to join that course.
 
-The look and feel of the module should match the visuals provided in the `visuals' folder.
+The look and feel of the module should match the visuals provided in the `visuals` folder.
 
 For additional guidance, you can use the FutureLearn styleguide at: https://www.futurelearn.com/styleguide
 
