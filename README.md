@@ -29,6 +29,6 @@ This exercise should adhere to our [Browser Support matrix](https://about.future
 
 Completion
 ---------------
-To submit your work, you can either Zip it up and email it to us or submit a Pull Request.
+To submit your work, please send it to <tech.jobs@futurelearn.com>.
 
 
