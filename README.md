@@ -1,5 +1,5 @@
-Front End Developer Assessment
-==============================
+Front End Developer Exercise
+============================
 
 Please spend no more than 2 hours on this exercise. We do not need fully working examples, we will assess whatever you can achieve within this timeframe.
 
