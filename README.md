@@ -22,9 +22,15 @@ The mobile view is 600px and below.
 
 The lists should be numbered and link to the relevant course detail page on the FutureLearn site. They tabs should then toggle to reveal each list.
 
-The look and feel of the module should match the visuals provided in the `visuals` folder.
-
 This exercise should adhere to our [Browser Support matrix](https://about.futurelearn.com/browser-support/)
+
+The look and feel of the module should match the visuals provided in the `visuals` folder, so the overall page should be roughly like this
+
+![Rough page layout](./visuals/template_overview.jpg)
+
+And the module itself should look like this
+
+![Mock up of the sidebar module](./visuals/module_overview.jpg)
 
 
 Completion
