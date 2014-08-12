@@ -9,7 +9,7 @@ As a learner on FutureLearn, I would like to easily switch between viewing 'Most
 
 * * *
 
-You should build a suitable page layout to accommodate this module in the sidebar, mobile first. In the mobile view, the module will wrap under main content and display at the bottom of the page. You are free to edit the markup as you see appropriate.
+You should build a suitable responsive page layout to accommodate this module in the sidebar, mobile first. In the mobile view, the module will wrap under main content and display at the bottom of the page.
 
 The mobile view is 600px and below.
 
@@ -24,6 +24,8 @@ The look and feel of the module should match the visuals provided in the `visual
 And the module itself should look like this
 
 ![Mock up of the sidebar module](./visuals/module_overview.jpg)
+
+The `index.html` provides some basic markup to kickstart the exercise. You are free to edit the markup as you see appropriate.
 
 
 Completion
