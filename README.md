@@ -3,13 +3,6 @@ Front End Developer Exercise
 
 Please spend no more than 2 hours on this exercise. We do not need fully working examples, we will assess whatever you can achieve within this timeframe.
 
-When completing this exercise, we'd like you to try and make it;
-
-* Responsive
-* Accessible
-* Performant
-* Scalable
-
 * * *
 
 As a learner on FutureLearn, I would like to easily switch between viewing 'Most Popular' and 'Upcoming' courses, in a small modular sidebar area on a page.
