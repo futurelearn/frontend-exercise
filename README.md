@@ -5,10 +5,14 @@ Please spend no more than 2 hours on this exercise. We do not need fully working
 
 When completing this exercise, we'd like you to try and make it;
 
-* Responsive
-* Accessible
-* Performant
-* Scalable
+* Responsive, i.e. you should ensure it works well on a variety of devices
+  including desktop, tablet and mobile
+* Accessible, i.e. you should take into account people with disabilities
+  who may rely on assistive technologies to read a page
+* Performant, i.e. you should take into consideration that the page will
+  be delivered over the internet and need to render in a reasonable
+  time.  
+* Scalable, ?????
 
 * * *
 
