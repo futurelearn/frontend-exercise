@@ -27,7 +27,7 @@ And the module itself should look like this
 
 The `index.html` provides some basic markup to kickstart the exercise. You are free to edit the markup as you see appropriate.
 
-Please do not use frameworks (Bootstrap, Foundation, etc) - we want to see your hand crafted code.
+Please do not use CSS frameworks (such as Bootstrap or Foundation), we want to see your hand crafted code.
 
 
 Completion
