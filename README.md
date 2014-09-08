@@ -13,7 +13,7 @@ You should build a suitable responsive page layout to accommodate this module in
 
 The mobile view is 600px and below.
 
-The lists should be numbered and link to the relevant course detail page on the FutureLearn site. They tabs should then toggle to reveal each list.
+The lists should be numbered and link to the relevant course detail page on the FutureLearn site. The tabs should then toggle to reveal each list.
 
 This exercise should adhere to our [Browser Support matrix](https://about.futurelearn.com/browser-support/)
 
