@@ -1,37 +1,29 @@
-Front End Developer Exercise
+Front-end Developer Exercise
 ============================
 
-Please spend no more than 2 hours on this exercise. We do not need fully working examples, we will assess whatever you can achieve within this timeframe.
+This is the front-end exercise we ask all front-end candidates to work on before being invited in for a technical interview.
 
-* * *
+Please try to do as much of it as you can in two hours. Please don't take more than two hours - the aim is not to complete some production-ready finished software, but just to see some code that you've written that will give us a starting point for discussion in the interview. Being able to tell us about the code that you would have written next is just as interesting as what you submit.
 
-As a learner on FutureLearn, I would like to easily switch between viewing 'Most Popular' and 'Upcoming' courses, in a small modular sidebar area on a page.
+We're interested in your technical choices and judgements, reasoning and ability to understand and explain the trade-offs behind them.
 
-* * *
+We would like to see markup and CSS that you've written though - so if you want to use it, jQuery is ok, but Bootstrap is not.
 
-You should build a suitable responsive page layout to accommodate this module in the sidebar, mobile first. In the mobile view, the module will wrap under main content and display at the bottom of the page.
+The user story for this exercise is:
 
-The mobile view is 600px and below.
+As a Learner,
+I'd like to view user menu options available to me, accessible from my avatar,
+So that I can navigate around the site.
 
-The lists should be numbered and link to the relevant course detail page on the FutureLearn site. The tabs should then toggle to reveal each list.
+The user avatar that the menu should be accessible from is the initialled coloured square behind the menu in the visual - the avatar doesn't exist yet and so also needs to be built as part of this story.
 
-This exercise should adhere to our [Browser Support matrix](https://about.futurelearn.com/browser-support/)
+The visual file `user-options-menu.png` shows what the avatar & menu should look like when this module is finished.
+The file `full-screen-for-context` shows the menu in the context of the page when it's activated - please note though that only the avatar and menu need to be built, this visual is just included to give you a sense of where the module should fit on the page.
 
-The look and feel of the module should match the visuals provided in the `visuals` folder, so the overall page should be roughly like this
+We've also included the icons, and you can use the pattern library [Futurelearn colour reference](https://www.futurelearn.com/pattern-library/core-patterns#colours) to get the hex values.
 
-![Rough page layout](./visuals/template_overview.jpg)
+This exercise should look as much like the design as possible in browsers listed in our [Browser Support matrix](https://about.futurelearn.com/browser-support/). For other browsers, the content and functionality should be available.
 
-And the module itself should look like this
+To submit your exercise, you can either send us a link to a Git repo, or archive your repo (ideally including the Git history).
 
-![Mock up of the sidebar module](./visuals/module_overview.jpg)
-
-The `index.html` provides some basic markup to kickstart the exercise. You are free to edit the markup as you see appropriate.
-
-Please do not use CSS frameworks (such as Bootstrap or Foundation), we want to see your hand crafted code.
-
-
-Completion
----------------
-To submit your work, please send it to <tech.jobs@futurelearn.com>.
-
-
+In either case, please send the info to [jobs@futurelearn.com](mailto:jobs@futurelearn.com). Thankyou!
