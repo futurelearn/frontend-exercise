@@ -26,4 +26,6 @@ This exercise should look as much like the design as possible in browsers listed
 
 To submit your exercise, you can either send us a link to a Git repo, or archive your repo (ideally including the Git history).
 
+*PLEASE NOTE: clone this repo, don't fork it or submit a PR, as it's a public repository.*
+
 In either case, please send the info to [jobs@futurelearn.com](mailto:jobs@futurelearn.com). Thankyou!
