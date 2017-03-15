@@ -20,7 +20,7 @@ The user avatar that the menu should be accessible from is the initialled colour
 The visual file `user-options-menu.png` shows what the avatar & menu should look like when this module is finished.
 The file `full-screen-for-context` shows the menu in the context of the page when it's activated - please note though that only the avatar and menu need to be built, this visual is just included to give you a sense of where the module should fit on the page.
 
-We've also included the icons, and you can use the pattern library [Futurelearn colour reference](https://www.futurelearn.com/pattern-library/core-patterns#colours) to get the hex values.
+We've also included the icons, and you can use the pattern library [Futurelearn colour reference](https://www.futurelearn.com/pattern-library/core-patterns/colours) to get the hex values.
 
 This exercise should look as much like the design as possible in browsers listed in our [Browser Support matrix](https://about.futurelearn.com/browser-support/). For other browsers, the content and functionality should be available.
 
