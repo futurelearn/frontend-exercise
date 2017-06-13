@@ -7,18 +7,18 @@ Please try to do as much of it as you can in two hours. Please don't take more t
 
 We're interested in your technical choices and judgements, reasoning and ability to understand and explain the trade-offs behind them.
 
-We would like to see markup and CSS that you've written though - so if you want to use it, jQuery is ok, but Bootstrap is not.
+We would like to see markup, styles and script that you've written though - so if you want to use it, jQuery is ok, but Bootstrap is not.
 
 The user story for this exercise is:
 
-As a Learner,
-I'd like to view user menu options available to me, accessible from my avatar,
-So that I can navigate around the site.
+As an Admin user,
+I'd like to view admin menu options available to me, accessible from the admin menu trigger in the admin bar,
+So that I can navigate around the sites.
 
-The user avatar that the menu should be accessible from is the initialled coloured square behind the menu in the visual - the avatar doesn't exist yet and so also needs to be built as part of this story.
+The admin menu trigger that the menu should be accessible from is the dotted square behind the menu in the visual - the admin bar and trigger don't exist yet and so also needs to be built as part of this story.
 
-The file [`visual-user-options-menu.png`](visuals/visual-user-options-menu.png) shows what the avatar & menu should look like when this module is finished.
-The file [`visual-full-screen-for-context.png`](visuals/visual-full-screen-for-context.png) shows the menu in the context of the page when it's activated - please note though that only the avatar and menu need to be built, this visual is just included to give you a sense of where the module should fit on the page.
+The file [`visual-user-options-menu.png`](visuals/visual-user-options-menu.png) shows what the admin bar, trigger & menu should look like when this component is finished.
+The file [`visual-full-screen-for-context.png`](visuals/visual-full-screen-for-context.png) shows the menu in the context of the page when it's activated - please note though that only the admin bar, trigger and menu need to be built, this visual is just included to give you a sense of where the component should fit on the page.
 
 We've also included the icons, and you can use the pattern library [Futurelearn colour reference](https://www.futurelearn.com/pattern-library/core-patterns/colours) to get the hex values.
 
