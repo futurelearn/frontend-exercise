@@ -15,7 +15,7 @@ As an Admin user,
 I'd like to view admin menu options available to me, accessible from the admin menu trigger in the admin bar,
 So that I can navigate around the sites.
 
-The admin menu trigger that the menu should be accessible from is the dotted square behind the menu in the visual - the admin bar and trigger don't exist yet and so also needs to be built as part of this story.
+The admin menu trigger that the menu should be accessible from is the dotted square behind the menu in the visual - the admin bar and trigger don't exist yet and so also need to be built as part of this story.
 
 The file [`visual-user-options-menu.png`](visuals/visual-user-options-menu.png) shows what the admin bar, trigger & menu should look like when this component is finished.
 The file [`visual-full-screen-for-context.png`](visuals/visual-full-screen-for-context.png) shows the menu in the context of the page when it's activated - please note though that only the admin bar, trigger and menu need to be built, this visual is just included to give you a sense of where the component should fit on the page.
