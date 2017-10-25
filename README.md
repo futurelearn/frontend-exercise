@@ -1,7 +1,7 @@
-Front-end Developer Exercise
+Front-end Engineering Exercise
 ============================
 
-This is the front-end exercise we ask all front-end candidates to work on before being invited in for a technical interview.
+This is the front-end exercise we ask front-end specialist candidates to work on before being invited in for a technical interview.
 
 Please try to do as much of it as you can in two hours. Please don't take more than two hours - the aim is not to complete some production-ready finished software, but just to see some code that you've written that will give us a starting point for discussion in the interview. Being able to tell us about the code that you would have written next is just as interesting as what you submit.
 
