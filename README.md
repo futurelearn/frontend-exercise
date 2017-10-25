@@ -11,11 +11,13 @@ We would like to see markup, styles and script that you've written though - so i
 
 The user story for this exercise is:
 
-As an Admin user,
-I'd like to view admin menu options available to me, accessible from the admin menu trigger in the admin bar,
-So that I can navigate around the sites.
+> As an Admin user,
+>
+> I'd like to view admin menu options available to me, accessible from the admin menu trigger in the admin bar,
+>
+> So that I can navigate around the sites.
 
-The admin menu trigger that the menu should be accessible from is the dotted square behind the menu in the visual - the admin bar and trigger don't exist yet and so also needs to be built as part of this story.
+The admin menu trigger that the menu should be accessible from is the dotted square behind the menu in the visual - the admin bar and trigger don't exist yet and so also need to be built as part of this story.
 
 The file [`visual-user-options-menu.png`](visuals/visual-user-options-menu.png) shows what the admin bar, trigger & menu should look like when this component is finished.
 The file [`visual-full-screen-for-context.png`](visuals/visual-full-screen-for-context.png) shows the menu in the context of the page when it's activated - please note though that only the admin bar, trigger and menu need to be built, this visual is just included to give you a sense of where the component should fit on the page.
@@ -28,4 +30,4 @@ To submit your exercise, you can either send us a link to a Git repo, or archive
 
 *PLEASE NOTE: clone this repo, don't fork it or submit a PR, as it's a public repository.*
 
-In either case, please send the info to [jobs@futurelearn.com](mailto:jobs@futurelearn.com). Thankyou!
+In either case, please send the info to your hiring contact in Workable. Thankyou and good luck!
