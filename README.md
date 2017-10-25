@@ -11,9 +11,11 @@ We would like to see markup, styles and script that you've written though - so i
 
 The user story for this exercise is:
 
-As an Admin user,
-I'd like to view admin menu options available to me, accessible from the admin menu trigger in the admin bar,
-So that I can navigate around the sites.
+> As an Admin user,
+>
+> I'd like to view admin menu options available to me, accessible from the admin menu trigger in the admin bar,
+>
+> So that I can navigate around the sites.
 
 The admin menu trigger that the menu should be accessible from is the dotted square behind the menu in the visual - the admin bar and trigger don't exist yet and so also need to be built as part of this story.
 
