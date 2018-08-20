@@ -30,4 +30,4 @@ To submit your exercise, you can either send us a link to a Git repo, or archive
 
 *PLEASE NOTE: clone this repo, don't fork it or submit a PR, as it's a public repository.*
 
-In either case, please send the info to your hiring contact in Workable. Thankyou and good luck!
+In either case, please send the info to your hiring contact in Workable. Thank you and good luck!
