@@ -22,7 +22,7 @@ The admin menu trigger that the menu should be accessible from is the dotted squ
 The file [`visual-user-options-menu.png`](visuals/visual-user-options-menu.png) shows what the admin bar, trigger & menu should look like when this component is finished.
 The file [`visual-full-screen-for-context.png`](visuals/visual-full-screen-for-context.png) shows the menu in the context of the page when it's activated - please note though that only the admin bar, trigger and menu need to be built, this visual is just included to give you a sense of where the component should fit on the page.
 
-We've also included the icons, and you can use the pattern library [Futurelearn colour reference](https://design-system.futurelearn.com/core-styles/colours) to get the hex values.
+We've also included the icons, and you can use the colour reference in the [Futurelearn Design System](https://design-system.futurelearn.com/core-styles/colours) to get the hex values.
 
 This exercise should look as much like the design as possible in browsers listed in our [Browser Support matrix](https://about.futurelearn.com/browser-support/). For other browsers, the content and functionality should be available.
 
