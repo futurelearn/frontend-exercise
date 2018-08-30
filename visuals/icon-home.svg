@@ -1,3 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" class='a-svg-icon a-svg-icon--home' height='32' viewBox='0 0 32 32' width='32'>
-<path d='M14.2 23.7h3.6v6.2h-3.6v-6.2zM23.9 10L16 .1 8.1 10l-8 10.1H4l1.7 11.8h14.1V21.5h-7.7v8.3H7.5L6 19.8 5.7 18H4.4l5.3-6.7L16 3.4l6.3 7.9 5.3 6.7h-1.4l-.2 1.8-1.8 12.1h2.1L28 20.1h4L23.9 10z'></path>
-</svg>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs><style>.cls-1{fill:#3a343a;}</style></defs><title>home</title><path class="cls-1" d="M16,0,0,20H4L6,32H20V21H12v9H7.69l-2-12H4.16L16,3.2,27.84,18H26.31L24,32h2l2-12h4ZM14,23h4v7H14Z"/></svg>

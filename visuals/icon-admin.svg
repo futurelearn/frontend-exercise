@@ -1,4 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" class='a-svg-icon svg-icon--learning-manager' height='32' viewBox='0 0 32 32' width='32'>
-<path d='M30 10.9V30H7.1v-3.1h6.4c.5 0 .9-.3 1-.8l1.6-8.7 3.6 4.9c.2.3.6.5 1 .4.4-.1.7-.4.8-.8l1.5-7.5 3.2 4.1c.3.4 1 .5 1.4.2.4-.3.5-1 .2-1.4l-4.6-5.9c-.2-.3-.6-.4-1-.4-.4.1-.7.4-.8.8l-1.5 7.5-3.6-4.9c-.2-.3-.6-.5-1-.4-.4.1-.7.4-.8.8L12.6 25H7.1V7.1H32v-2h-5.1V0H0v26.9h5.1V32H32V10.9h-2zm-24.9 14H2V2h22.9v3.1H5.1v19.8z'></path>
-</svg>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs><style>.cls-1{fill:#3a343a;}</style></defs><title>learning_manager</title><path class="cls-1" d="M31,10V5H27V1H1V27H5v4H31V15H29V29H7V27h6.85L15.6,16.5l6.14,8.18,1-10.18,3.47,4.17,1.54-1.28L21.24,9.56l-1,9.82L14.4,11.56,12.15,25H7V7H29v3ZM5,5V25H3V3H25V5Z"/></svg>
